@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from PIL import Image
 from io import BytesIO, StringIO
-from termcolor import colored # added by me
+from termcolor import colored
 import base64
 import time
 import sys
